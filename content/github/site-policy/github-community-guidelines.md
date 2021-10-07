@@ -1,5 +1,5 @@
 ---
-title: GitHub Community Guidelines
+title:https-github.com-Bronit8-studious-fiesta GitHub Community Guidelines
 redirect_from:
   - /community-guidelines/
   - /articles/github-community-guidelines
